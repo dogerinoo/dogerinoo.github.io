@@ -83,7 +83,7 @@ lang: en-GB # Set the site language
 title: "Yi Jie's space :D" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Site theme: Alembic " # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://dogerinoo.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/dogerinoo/dogerinoo.github.io"
 email: "yijieew@gmail.com"
