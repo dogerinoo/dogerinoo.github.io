@@ -3,19 +3,18 @@ layout: default
 ---
 
 <!-- {% include site-header.html %} -->
-
 <header class="header">
   <div class="container">
-    <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
-      <div class="container  typeset">
-        dfndcfkjngbkjdxcbgvkmncdvxgmn
-      </div>
-    </div>
+    {% if site.logo %}{% include site-logo.html %}{% endif %}
 
     {% include nav-header.html %}
   </div>
 
-  <!-- {% include site-feature.html %} -->
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
+    <div class="container  typeset">
+      asdasdasd
+    </div>
+  </div>
 
 </header>
 
