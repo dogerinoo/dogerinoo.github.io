@@ -8,9 +8,7 @@ excerpt: "abc"
 layout: page
 ---
 
-Contact me on these platforms!
 
-{% include button.html text="My LinkedIn" link="https://www.linkedin.cn/in/lim-yi-jie-983192186" icon="linkedin" %}
 
 
 
